@@ -1,6 +1,4 @@
-<div align="center">
-  <h3>Hi, I'm Max 👋</h3>
-</div>
+### Hi, I'm Max 👋
 
 - 🎓 Studying Computing at PolyU
 - 🐧 Uses Linux everyday
