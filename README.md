@@ -3,7 +3,7 @@
 - 🎓 Studying Computing at PolyU
 - 🐧 Uses Linux everyday
 - 💭 Want to explore application development & automation
-- 🌱 Learning [Rust](www.rust-lang.org) and [Vue.js](vuejs.org)
+- 🌱 Learning [Rust](https://www.rust-lang.org) and [Vue.js](https://vuejs.org)
 
 #### Languages & Tools
 
