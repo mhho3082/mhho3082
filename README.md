@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <h3>Hi, I'm Max 👋</h3>
+</div>
 
-<!--
-**mhho3082/mhho3082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Studying Computing at PolyU
+- 🐧 Uses Linux everyday
+- 💭 Want to explore application development & automation
+- 🌱 Learning [Rust](www.rust-lang.org) and [Vue.js](vuejs.org)
 
-Here are some ideas to get you started:
+#### Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Java, C, C++, Rust, Python, Ruby and more for backend
+- 🌐 Vue.js, React.js, tailwindcss, SCSS and more for frontend
+- 🛠️ Using Neovim, Git, Bash, and many more open-source tools
